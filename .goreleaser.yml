@@ -28,6 +28,10 @@ archives:
       - assets/*
       - static/*
       - templates/*
+  - id: binary
+    builds:
+      - binary
+    format: "binary"
 
 checksum:
   name_template: checksums.txt
