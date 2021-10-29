@@ -1,9 +1,7 @@
 project_name: varsgen
 
 builds:
-  -
-    &template
-    id: binary
+  - id: binary
     binary: varsgen
     env:
       - CGO_ENABLED=0
