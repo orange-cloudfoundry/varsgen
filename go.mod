@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/cloudfoundry/bosh-cli v6.4.1+incompatible
-	github.com/cloudfoundry/bosh-utils v0.0.297
+	github.com/cloudfoundry/bosh-utils v0.0.298
 	github.com/cloudfoundry/config-server v0.1.38
 	github.com/cppforlife/go-patch v0.2.0 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
@@ -13,7 +13,6 @@ require (
 	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/onsi/gomega v1.16.0 // indirect
 	github.com/sirupsen/logrus v1.8.1
-	golang.org/x/text v0.3.7 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 )
 
