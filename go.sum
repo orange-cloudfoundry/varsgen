@@ -8,12 +8,14 @@ github.com/charlievieth/fs v0.0.2 h1:vu3+e3KRrIguFN4HoYqkeM9TSjduugtsfHZwFvj/PBg
 github.com/charlievieth/fs v0.0.2/go.mod h1:74vroF06jvR8XMafvi2CYzs8WruHL1axh/qFx7XN5Xw=
 github.com/cloudfoundry/bosh-cli v6.4.1+incompatible h1:n5/+NIF9QxvGINOrjh6DmO+GTen78MoCj5+LU9L8bR4=
 github.com/cloudfoundry/bosh-cli v6.4.1+incompatible/go.mod h1:rzIB+e1sn7wQL/TJ54bl/FemPKRhXby5BIMS3tLuWFM=
-github.com/cloudfoundry/bosh-utils v0.0.299 h1:2DYjM1BGqO5ywIoA2qMUJHfoosMVp2HihyfYUK8hM9E=
 github.com/cloudfoundry/bosh-utils v0.0.299/go.mod h1:1EsT1TjFSQvPsfiWViUnmdexu9f3RTHcIBnB/X1koDI=
+github.com/cloudfoundry/bosh-utils v0.0.300 h1:vMTTAJWMcP7dBlNSK8ArnvujxdcFvVs38T7ekcpiWi8=
+github.com/cloudfoundry/bosh-utils v0.0.300/go.mod h1:UBzAZSIe/MOsjd3UzPuTuIeUH+SVcifZnf5IQMuXD6s=
 github.com/cloudfoundry/config-server v0.1.41 h1:u7eh9aLJImih+aEVk443AxmNQ6sHjepUC0/xZUR6r1k=
 github.com/cloudfoundry/config-server v0.1.41/go.mod h1:n72AOgWXzC+M4oaf4lKTJOfUUa4AQupdZuq5NgYmOko=
 github.com/cloudfoundry/go-socks5 v0.0.0-20180221174514-54f73bdb8a8e/go.mod h1:PXmcacyJB/pJjSxEl15IU6rEIKXrhZQRzsr0UTkgNNs=
 github.com/cloudfoundry/socks5-proxy v0.2.40/go.mod h1:Xi3F/V79R7l3MbcinbJnKKPHF9ty240c2Yrek25BZn4=
+github.com/cloudfoundry/socks5-proxy v0.2.41/go.mod h1:KwdzI1jtNL/lO5AN4t9yyLzDYbitCm2VC2Pv1NaA8zk=
 github.com/cppforlife/go-patch v0.2.0 h1:Y14MnCQjDlbw7WXT4k+u6DPAA9XnygN4BfrSpI/19RU=
 github.com/cppforlife/go-patch v0.2.0/go.mod h1:67a7aIi94FHDZdoeGSJRRFDp66l9MhaAG1yGxpUoFD8=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
