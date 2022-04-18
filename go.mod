@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/cloudfoundry/bosh-cli v6.4.1+incompatible
 	github.com/cloudfoundry/bosh-utils v0.0.310
-	github.com/cloudfoundry/config-server v0.1.50
+	github.com/cloudfoundry/config-server v0.1.51
 	github.com/cppforlife/go-patch v0.2.0 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/jessevdk/go-flags v1.5.0
