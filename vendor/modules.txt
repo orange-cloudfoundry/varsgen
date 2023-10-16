@@ -12,7 +12,7 @@ github.com/cloudfoundry/bosh-cli/director/template
 github.com/cloudfoundry/bosh-utils/errors
 github.com/cloudfoundry/bosh-utils/logger
 github.com/cloudfoundry/bosh-utils/system
-# github.com/cloudfoundry/config-server v0.1.142
+# github.com/cloudfoundry/config-server v0.1.143
 ## explicit; go 1.21
 github.com/cloudfoundry/config-server/types
 # github.com/cppforlife/go-patch v0.2.0
