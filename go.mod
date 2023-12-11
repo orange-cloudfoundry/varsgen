@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/cloudfoundry/bosh-cli v6.4.1+incompatible
 	github.com/cloudfoundry/bosh-utils v0.0.416
-	github.com/cloudfoundry/config-server v0.1.158
+	github.com/cloudfoundry/config-server v0.1.159
 	github.com/cppforlife/go-patch v0.2.0 // indirect
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/mitchellh/mapstructure v1.5.0
