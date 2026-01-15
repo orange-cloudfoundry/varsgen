@@ -1,6 +1,7 @@
 module github.com/orange-cloudfoundry/varsgen
 
-go 1.21
+go 1.21.0
+
 toolchain go1.22.0
 
 require (
@@ -10,7 +11,7 @@ require (
 	github.com/cppforlife/go-patch v0.2.0 // indirect
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/mitchellh/mapstructure v1.5.0
-	github.com/sirupsen/logrus v1.9.3
+	github.com/sirupsen/logrus v1.9.4
 	gopkg.in/yaml.v2 v2.4.0
 )
 
